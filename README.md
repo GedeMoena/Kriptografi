@@ -1,4 +1,4 @@
-# Kriptografi
+# Kriptografi || Proses Enkripsi dan Deskripsi pada Kriptografi Klasik
 Soal
 Buatlah sebuah program C++/Phyton/R yang mengimplementasikan:
 a) Vigenere Cipher standard (26 huruf alfabet)
